@@ -1,0 +1,16 @@
+Hyundai,i10
+31232424
+CBE
+500
+Alto,k10
+TN37CS9383
+CBE
+500
+Honda,Amaze
+TN19S7260
+CBE
+700
+Toyota,Innova
+TN22CD3683
+CBE
+1000
